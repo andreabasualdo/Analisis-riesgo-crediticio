@@ -1,0 +1,8 @@
+Dataset
+El dataset utilizado en este proyecto puede descargarse desde el siguiente enlace:
+https://www.kaggle.com/datasets/joebeachcapital/loan-default
+Descripción
+El dataset contiene información sobre préstamos otorgados, incluyendo variables financieras y características de los clientes, utilizadas para predecir el incumplimiento (default).
+Notas
+●	El análisis se realizó sobre una versión preprocesada del dataset.
+●	Algunas variables con data leakage fueron eliminadas durante la etapa de limpieza.
